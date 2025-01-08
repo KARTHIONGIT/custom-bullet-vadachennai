@@ -2,7 +2,7 @@
   "name": "custom-bullet-vadachennai",
   "version": "0.1.0",
   "homepage": "https://github.com/KARTHIONGIT/custom-bullet-vadachennai.git",
-  "private": true,
+  "private": false,
   "dependencies": {
     "cra-template": "1.2.0",
     "gh-pages": "^6.3.0",
