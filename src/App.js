@@ -162,33 +162,6 @@ TOTAL AMOUNT: ${totalCost}.00/-
                 </button>
               </>
             )}
-            {/* <label for="about">About</label>
-            <textarea
-              name="about"
-              id="about"
-              cols="3"
-              rows="1"
-              
-              onChange={(e) =>
-                setAbout(e.target.value)
-              }
-              placeholder="Additional comments"
-            >
-            </textarea> */}
-            {/* <button
-              type="reset"
-              value="reset"
-              onClick={() => handleReset()}
-            >
-              Reset
-            </button>
-            <button
-              type="submit"
-              value="Submit"
-              onClick={(e) => handleSubmit(e)}
-            >
-              Submit
-            </button> */}
           </form>
         </fieldset>
         <br />
