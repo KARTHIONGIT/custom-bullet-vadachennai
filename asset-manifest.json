@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KARTHIONGIT/custom-bullet-vadachennai.git/static/css/main.06c70d3f.css",
+    "main.js": "/KARTHIONGIT/custom-bullet-vadachennai.git/static/js/main.b6e39138.js",
+    "static/js/488.1b2c2033.chunk.js": "/KARTHIONGIT/custom-bullet-vadachennai.git/static/js/488.1b2c2033.chunk.js",
+    "index.html": "/KARTHIONGIT/custom-bullet-vadachennai.git/index.html",
+    "main.06c70d3f.css.map": "/KARTHIONGIT/custom-bullet-vadachennai.git/static/css/main.06c70d3f.css.map",
+    "main.b6e39138.js.map": "/KARTHIONGIT/custom-bullet-vadachennai.git/static/js/main.b6e39138.js.map",
+    "488.1b2c2033.chunk.js.map": "/KARTHIONGIT/custom-bullet-vadachennai.git/static/js/488.1b2c2033.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06c70d3f.css",
+    "static/js/main.b6e39138.js"
+  ]
+}
