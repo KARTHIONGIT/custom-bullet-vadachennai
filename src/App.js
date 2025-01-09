@@ -143,7 +143,7 @@ Customer Name: ${firstName}
 
                     selectedList.map((x, i) => {
                       message += `
-${i + 1}.${x.displayName} - ${x.price}
+${i + 1}. ${x.displayName} - ${x.price}
 `
                     })
                     message +=
